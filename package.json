@@ -1,0 +1,23 @@
+{
+  "name": "secret-messenger",
+  "version": "1.0.0",
+  "description": "A wep app that makes secret messages",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=production node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digel4/secret-messenger.git"
+  },
+  "author": "Oliver Fox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digel4/secret-messenger/issues"
+  },
+  "homepage": "https://github.com/digel4/secret-messenger#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
