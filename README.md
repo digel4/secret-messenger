@@ -19,7 +19,7 @@
 <h3 align="center">Secret Messenger App</h3>
 
   <p align="center">
-    Encodes and decodes messaged inputed into the app.
+    Encodes and decodes a message which is inputed into the app.
     <br />
     <a href="https://github.com/digel4/secret-messenger"><strong>Explore the docs »</strong></a>
     <br />
